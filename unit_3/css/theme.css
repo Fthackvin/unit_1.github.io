@@ -1,5 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500italic);
+
 html {
 text-align: center;
+}
+
+#nav {
+	font-family: 'Roboto', sans-serif; 
+	text-align: inline;
+	/*position: absolute;*/
+}
+
+.icons {
+	height:300px;	
+	width:300px;
+}
+
+.icons_1 {
+	
+	height:400px;	
+	width:500px;
+
+}
+
+#nav li {display: inline-block;
+		padding: 10px;
+		margin-right: 40px;
+		font-size: 20px;
+		font-weight: 700;
+		float: right;
+		color: #3575DE;
+}
+
+#nav_x li {
+	float: left;
+	font-family: inherit, helvetica, sans-serif;
+	text-align: inline;
+	padding: 10px;
+	font-size: 20px;
+	font-weight: 700;
+}
+p {
+	clear: both;
+}
+
+hr {
+	clear: both;
+}
+
+img {
+	width: 300px;
+	height: 450px;
 }
 
 h1 {
