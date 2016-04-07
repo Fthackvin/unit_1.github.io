@@ -18,6 +18,16 @@ margin: 1em;
 
 }
 
+/*
+	float: left;
+  	width: 50%;
+  	height: 6em;
+  	outline: 3px solid #222;
+  	text-align:center;
+	line-height:6em;
+*/
+
+
 #nav li {
 
 		display: inline-block;
@@ -30,7 +40,7 @@ margin: 1em;
 		text-transform: uppercase;
 }
 
-/*#nav_x li {*/
+/*#nav_x li {
 	float: left;
 	font-family: inherit, helvetica, sans-serif;
 	text-align: inline;
